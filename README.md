@@ -1,2 +1,4 @@
 # BatHawk
-dotnetcore 
+
+Build Jenkins at SampleApp
+ 
